@@ -12,3 +12,4 @@ copy[i]=src[i];
 }
 copy[len]='\0';
 return copy;
+/*本地编辑*/
